@@ -1,0 +1,118 @@
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+c:\users\администратор\documents\visual studio 2015\Projects\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\Laba 2 (samolet) - копия - 3лаба - копия - копия\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+C:\Users\Администратор\Desktop\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\3лаба ласт\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\3лаба ласт\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+E:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+G:\2 курс\Тех програм\лаба 2, 3 (21.10)\4лаба( в классе)\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form2.resources
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+E:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form2.resources
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+G:\2 курс\Тех програм\5 лаба в классе\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form2.resources
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+G:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe.config
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).exe
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\bin\Debug\Laba 2 (samolet).pdb
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csprojResolveAssemblyReference.cache
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form1.resources
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Form2.resources
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba_2__samolet_.Properties.Resources.resources
+E:\2 курс\Тех програм\5 лаба дома\Laba 2 (samolet)\obj\Debug\Laba 2 (samolet).csproj.GenerateResource.Cache
